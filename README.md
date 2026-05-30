@@ -49,7 +49,7 @@ exit
 # Скачивание проекта
 
 ```bash
-git clone https://github.com/USERNAME/linux-file-cleaner.git
+git clone https://github.com/lolzteaaam/linux-file-cleaner.git
 ```
 
 Перейти в папку проекта:
